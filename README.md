@@ -24,9 +24,9 @@ All designs were modeled and assembled using CAD tools.
 A simple mechanical structure designed in the shape of the letter **H** to practice CAD sketching and extrusion techniques.
 
 ## Preview
-[![H Shape](images/h_shape.png)](images/h_shape.png)
+[![H Shape](https://github.com/AmeerAlquliti/mechanics/blob/main/first%20shape.png)](images/h_shape.png)
 
-Click the image to view the full picture.
+
 
 ## Skills Practiced
 - Basic sketching
